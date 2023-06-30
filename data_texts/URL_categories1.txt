@@ -1,0 +1,49 @@
+Молоко: https://www.perekrestok.ru/cat/c/114/moloko
+Сметана: https://www.perekrestok.ru/cat/c/118/smetana
+Сгущёнка: https://www.perekrestok.ru/cat/c/124/molocnye-konservy
+Сливки: https://www.perekrestok.ru/cat/c/115/slivki
+Сыр: https://www.perekrestok.ru/cat/c/122/syr
+Йогурты: https://www.perekrestok.ru/cat/c/119/jogurty
+Йогурты: https://www.perekrestok.ru/cat/c/658/deserty-i-sneki
+Йогурты: https://www.perekrestok.ru/cat/c/657/tvorozki
+Молочные коктейли: https://www.perekrestok.ru/cat/c/116/molocnye-koktejli
+Творог: https://www.perekrestok.ru/cat/c/117/tvorog
+Сырки: https://www.perekrestok.ru/cat/c/656/syrki
+Яйца: https://www.perekrestok.ru/cat/c/123/ajca
+Кисломолочные продукты: https://www.perekrestok.ru/cat/c/120/kislomolocnye-produkty-i-zakvaski
+Масло сливочное: https://www.perekrestok.ru/cat/c/121/maslo-margarin-spred
+Орехи: https://www.perekrestok.ru/cat/c/159/orehi
+Семечки: https://www.perekrestok.ru/cat/c/161/semecki
+Леденцы и драже: https://www.perekrestok.ru/cat/c/368/orehi-semecki-suhofrukty?filter.category-tovara=konfety,ledency-i-draze
+Хлеб, батон: https://www.perekrestok.ru/cat/c/243/hleb
+Сосиски, сардельки: https://www.perekrestok.ru/cat/c/134/sosiski-sardelki-spikacki
+Колбаса, ветчина: https://www.perekrestok.ru/cat/c/133/kolbasy-vetcina
+Макароны, спагетти: https://www.perekrestok.ru/cat/c/105/makarony-pasta
+Кетчуп: https://www.perekrestok.ru/cat/c/219/ketcupy-i-tomatnye-sousy
+Майонез: https://www.perekrestok.ru/cat/c/221/majonez
+Томатная паста: https://www.perekrestok.ru/cat/c/220/tomatnaa-pasta
+Соусы: https://www.perekrestok.ru/cat/c/223/gorcica-hren
+Соусы: https://www.perekrestok.ru/cat/c/218/sousy
+Продукты быстрого приготовления: https://www.perekrestok.ru/cat/c/465/produkty-bystrogo-prigotovlenia
+Полуфабрикаты: https://www.perekrestok.ru/cat/c/58/picca-vareniki-pelmeni-bliny
+Полуфабрикаты: https://www.perekrestok.ru/cat/c/56/zamorozennye-polufabrikaty
+Полуфабрикаты: https://www.perekrestok.ru/cat/c/60/kotlety-naggetsy
+Масло растительное: https://www.perekrestok.ru/cat/c/104/rastitelnoe-maslo
+Печенье, вафли, пряники: https://www.perekrestok.ru/cat/c/197/pecene-krekery-vafli-praniki
+Чипсы и снеки: https://www.perekrestok.ru/cat/c/202/cipsy-sneki-popkorn
+Шоколадные батончики: https://www.perekrestok.ru/cat/c/203/sokoladnye-i-orehovye-batonciki
+Молочный и белый шоколад: https://www.perekrestok.ru/cat/c/195/molocnyj-i-belyj-sokolad
+Шоколадные и ореховые пасты: https://www.perekrestok.ru/cat/c/204/sokoladnye-i-orehovye-pasty
+Торты и пирожные: https://www.perekrestok.ru/cat/c/201/torty-i-piroznye
+Пироги и кексы: https://www.perekrestok.ru/cat/c/198/pirogi-sdoba-keksy-rulety
+Тёмный шоколад: https://www.perekrestok.ru/cat/c/200/temnyj-sokolad
+Сушки и сухари: https://www.perekrestok.ru/cat/c/199/suski-suhari-hlebcy
+Леденцы и драже: https://www.perekrestok.ru/cat/c/194/ledency-i-draze
+Жевательная резинка: https://www.perekrestok.ru/cat/c/190/zevatelnaa-rezinka
+Вода: https://www.perekrestok.ru/cat/c/208/voda
+Газированные напитки: https://www.perekrestok.ru/cat/c/209/gazirovannye-napitki
+Соки и нектары: https://www.perekrestok.ru/cat/c/211/soki-nektary
+Соки и нектары: https://www.perekrestok.ru/cat/c/213/sokosoderzasie-napitki-smuzi
+Квас: https://www.perekrestok.ru/cat/c/212/kvas-i-kvasnye-napitki
+Холодный чай: https://www.perekrestok.ru/cat/c/210/holodnyj-caj-kombuca
+Морсы и компоты: https://www.perekrestok.ru/cat/c/214/morsy-uzvary-kiseli-kompoty

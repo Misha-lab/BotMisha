@@ -1,0 +1,11 @@
+KINDER:Kinder
+TWIX:Twix
+MILKA:Milka
+MARS:Mars
+NESQUIK:Nesquik
+BOUNTY:Bounty
+SNICKERS:Snickers
+MILKY WAY:Milky Way
+MILKYWAY:Milky Way
+KITKAT:KitKat
+NUTS:Nuts
